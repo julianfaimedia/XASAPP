@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "800043957919",
+    "project_id": "api-project-800043957919"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800043957919:android:2b6065e31659e7f6",
+        "android_client_info": {
+          "package_name": "com.phonegap.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800043957919-vjot232f42p603ejem74rccvp1q9tuhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phonegap.helloworld",
+            "certificate_hash": "257D0A813D8FC842C5F637358B98EFC88220E7F3"
+          }
+        },
+        {
+          "client_id": "800043957919-ji5850iv2co6dh2hcg3ab1ueicjanpq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYJ7-Fh5B5yU54cSQMr9U6l-Q4QGms_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
